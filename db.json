@@ -88,5 +88,51 @@
       "vehicle_friendly_name": "TN09U9012",
       "timestamp": "2023-12-20T01:15:56.838Z"
     }
-  ]
+  ],
+  "vehicles":[
+    {
+        "friendly_name": "MH04Y7890",
+        "id": "01234567-89ab-cdef-0123-456789012345"
+    },
+    {
+        "friendly_name": "DL16R3456",
+        "id": "24680ab1-cdef-0123-4567-89ab01234567"
+    },
+    {
+        "friendly_name": "KA21Z1234",
+        "id": "4791aff2-5678-0123-4567-89ab01234567"
+    },
+    {
+        "friendly_name": "RJ08C9876",
+        "id": "6a14d2c3-7890-0123-4567-89ab01234567"
+    },
+    {
+        "friendly_name": "TN15W5432",
+        "id": "8d37fb14-90ab-0123-4567-89ab01234567"
+    },
+    {
+        "friendly_name": "AP23X3456",
+        "id": "af591445-cdef-0123-4567-89ab01234567"
+    },
+    {
+        "friendly_name": "DL15P9876",
+        "id": "bbddccff-1122-3344-5566-77889900aabb"
+    },
+    {
+        "friendly_name": "GJ10X5432",
+        "id": "eeff1122-3344-5566-7788-9900aabbcc"
+    },
+    {
+        "friendly_name": "KL07Y1234",
+        "id": "22334455-6677-8899-aabb-ccdd1122eeff"
+    },
+    {
+        "friendly_name": "AP24Z9876",
+        "id": "55667788-9900-aabb-ccdd-eeff11223344"
+    },
+    {
+        "friendly_name": "TN09U9012",
+        "id": "8899aabb-ccdd-eeff-1122-33445566"
+    }
+]
 }
