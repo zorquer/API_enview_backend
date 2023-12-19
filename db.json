@@ -1,0 +1,91 @@
+[
+    {
+      "id": "d25a173b-e4f6-489c-a077-b621c0832d82",
+      "alert_type": "Sudden lane change without signal",
+      "vehicle_id": "01234567-89ab-cdef-0123-456789012345",
+      "driver_friendly_name": "Vikram",
+      "vehicle_friendly_name": "MH04Y7890",
+      "timestamp": "2023-12-20T01:47:47.540Z"
+    },
+    {
+      "id": "5c6d7ef0-1234-5678-9abc-def012345678",
+      "alert_type": "Overspeeding on highway",
+      "vehicle_id": "24680ab1-cdef-0123-4567-89ab01234567",
+      "driver_friendly_name": "Aisha",
+      "vehicle_friendly_name": "DL16R3456",
+      "timestamp": "2023-12-20T01:48:41.904Z"
+    },
+    {
+      "id": "9f80ae25-4567-89ab-cdef-012345678901",
+      "alert_type": "Possible distracted driving (phone use)",
+      "vehicle_id": "4791aff2-5678-0123-4567-89ab01234567",
+      "driver_friendly_name": "Ramesh",
+      "vehicle_friendly_name": "KA21Z1234",
+      "timestamp": "2023-12-20T01:49:36.268Z"
+    },
+    {
+      "id": "42b3cd58-89ab-cdef-0123-456789012345",
+      "alert_type": "Sharp cornering detected",
+      "vehicle_id": "6a14d2c3-7890-0123-4567-89ab01234567",
+      "driver_friendly_name": "Priya",
+      "vehicle_friendly_name": "RJ08C9876",
+      "timestamp": "2023-12-20T01:50:30.632Z"
+    },
+    {
+      "id": "85e6fa8b-cdef-0123-4567-89ab01234567",
+      "alert_type": "Engine malfunction warning",
+      "vehicle_id": "8d37fb14-90ab-0123-4567-89ab01234567",
+      "driver_friendly_name": "sharan",
+      "vehicle_friendly_name": "TN15W5432",
+      "timestamp": "2023-12-20T01:51:25.000Z"
+    },
+    {
+      "id": "381a2dbe-0123-4567-89ab-cdef01234567",
+      "alert_type": "Emergency call button pressed",
+      "vehicle_id": "af591445-cdef-0123-4567-89ab01234567",
+      "driver_friendly_name": "Amit",
+      "vehicle_friendly_name": "AP23X3456",
+      "timestamp": "2023-12-20T01:52:19.364Z"
+    },
+
+    {
+      "id": "123e4567-89ab-cdef-0123-456789012345",
+      "alert_type": "Overspeeding",
+      "vehicle_id": "bbddccff-1122-3344-5566-77889900aabb",
+      "driver_friendly_name": "Priya",
+      "vehicle_friendly_name": "DL15P9876",
+      "timestamp": "2023-12-20T01:12:13.382Z"
+    },
+    {
+      "id": "98765432-0a1b-cdef-0123-456789012345",
+      "alert_type": "Hard braking",
+      "vehicle_id": "eeff1122-3344-5566-7788-9900aabbcc",
+      "driver_friendly_name": "Vijay",
+      "vehicle_friendly_name": "GJ10X5432",
+      "timestamp": "2023-12-20T01:13:08.746Z"
+    },
+    {
+      "id": "56789012-3456-cdef-0123-456789012345",
+      "alert_type": "Sudden lane change",
+      "vehicle_id": "22334455-6677-8899-aabb-ccdd1122eeff",
+      "driver_friendly_name": "Aisha",
+      "vehicle_friendly_name": "KL07Y1234",
+      "timestamp": "2023-12-20T01:14:04.110Z"
+    },
+    {
+      "id": "34567890-1234-cdef-0123-456789012345",
+      "alert_type": "Fatigue driving",
+      "vehicle_id": "55667788-9900-aabb-ccdd-eeff11223344",
+      "driver_friendly_name": "Rahul",
+      "vehicle_friendly_name": "AP24Z9876",
+      "timestamp": "2023-12-20T01:15:00.474Z"
+    },
+    {
+      "id": "78901234-5678-cdef-0123-456789012345",
+      "alert_type": "Seatbelt not worn",
+      "vehicle_id": "8899aabb-ccdd-eeff-1122-33445566",
+      "driver_friendly_name": "Kavita",
+      "vehicle_friendly_name": "TN09U9012",
+      "timestamp": "2023-12-20T01:15:56.838Z"
+    }
+]
